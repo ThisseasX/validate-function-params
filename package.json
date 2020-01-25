@@ -1,6 +1,6 @@
 {
   "name": "validate-function-params",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JavaScript library that assists with function parameter validation at runtime, through an easy-to-use Fluent API.",
   "author": "ThisseasX",
   "license": "MIT",
