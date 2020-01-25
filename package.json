@@ -1,0 +1,38 @@
+{
+  "name": "validate-function-params",
+  "version": "1.0.2",
+  "description": "JavaScript library that assists with function parameter validation at runtime, through an easy-to-use Fluent API.",
+  "author": "ThisseasX",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisseasX/validate-function-params.git"
+  },
+  "keywords": [
+    "params",
+    "parameters",
+    "validation",
+    "validate",
+    "primitive",
+    "type",
+    "types",
+    "safety"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "src/index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/ThisseasX/validate-function-params/issues"
+  },
+  "homepage": "https://github.com/ThisseasX/validate-function-params#readme",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
